@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Ads-das-jsf">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ads_das_jsf</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Ads-das-jsf/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Ads-das-jsf" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
