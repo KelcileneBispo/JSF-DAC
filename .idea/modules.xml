@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ads-dac-jsf/Ads-das-jsf.iml" filepath="$PROJECT_DIR$/ads-dac-jsf/Ads-das-jsf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JSF-DAC.iml" filepath="$PROJECT_DIR$/.idea/JSF-DAC.iml" />
+    </modules>
+  </component>
+</project>
