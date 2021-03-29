@@ -1,6 +1,2 @@
-.classpath
-.project
-nb-configuration
 target/
-.settings/
-.lib
+lib/
